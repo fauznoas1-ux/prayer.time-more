@@ -1,0 +1,8 @@
+{
+  "name": "Nur Salat - Islamic Prayer Times & Qibla",
+  "description": "Accurate daily prayer times for Zuboh, Duhri, Asri, Magrib, and Isha with live countdown, Qibla compass, Adhan alerts, and Tasbih counter.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
